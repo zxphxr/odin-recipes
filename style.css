@@ -3,6 +3,24 @@ h1 {
 }
 
 img {
-    height: auto;
-    width: 500px;
+    height: 500px;
+    width: auto;
+    border-radius: 25px;
+    border: 1px  solid black;
+}
+
+.button {
+    font-size: 17px;
+    background-color: rgb(194, 202, 194);
+    border-radius: 5px;
+}
+
+.list {
+    margin: 10px;
+    margin-left: 0px;
+}
+
+#bourdain {
+    height: 500px;
+    width: auto;
 }
