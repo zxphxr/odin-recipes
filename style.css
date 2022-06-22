@@ -24,3 +24,7 @@ img {
     height: 500px;
     width: auto;
 }
+
+.quote {
+    font-size: 20px;
+}
