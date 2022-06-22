@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes Starting the Odin Project was exciting, but I quickly and consistently felt overwhelmed. It is getting easier to comprehend each day, and this project gave me a lot more confidence in my abilities going forward. I know this recipes project is very simple compared to the things I will be doing down the road, but it was also very satisfying seeing all the learning and work I've put in all come together in this project. I'm really looking forward to the path ahead in this coding adventure.
